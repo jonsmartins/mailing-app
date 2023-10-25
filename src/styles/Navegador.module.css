@@ -1,0 +1,11 @@
+.Nav a{
+    display: block;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #4d4d4d;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+  }

@@ -1,0 +1,29 @@
+.conteudoExibidores{
+    display: flex;
+    padding-left: 20px;
+}
+
+.conteudoExibidores input{
+    width: 220px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.buscaExibidores{
+    display: flex;
+    flex-direction: column;
+}
+
+.buscaExibidores div{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 245px;
+    margin-top: 20px;
+}
+
+.Exibidores{
+    display: flex;
+    margin-left: 50px;
+    width: 220px;    
+    margin-top: 20px;
+}

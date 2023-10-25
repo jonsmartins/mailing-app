@@ -1,0 +1,38 @@
+.FormInput{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.FormInput input{
+    padding: 15px;
+    border-radius: 25px;
+    margin: 3px;
+}
+
+.FormInput select{
+    text-align: center;
+    align-self: center;
+    padding: 5px;
+    border-radius: 25px;
+    width: 240px;
+    margin: 3px;
+}
+
+.FormInput button{
+    align-self: center;
+    padding: 5px;
+    margin: 3px;
+    border-radius: 25px;
+    width: 50%;
+    color: #fff;
+    background-color: #dc143c;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.FormInput button:hover{
+    opacity: 1;
+}
